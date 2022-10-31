@@ -1,0 +1,16 @@
+{
+    "domainStrategy": "IPOnDemand",
+    "rules": [
+        {
+            "type": "field",
+            "outboundTag": "block",
+            "protocol": [
+                "bittorrent",
+                "BitTorrent protocol",
+                "torrent",
+                "SMTP",
+                "Thunder"
+            ]
+        }
+    ]
+}
