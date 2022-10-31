@@ -1,0 +1,26 @@
+(.*\.||)(gov|12377|12315|talk.news.pts.org|creaders|zhuichaguoji|efcc.org|cyberpolice|aboluowang|tuidang|epochtimes|nytimes|dafahao|falundafa|minghui|falunaz|zhengjian|110.qq|mingjingnews|inmediahk|xinsheng|bannedbook|ntdtv|falungong|12321|secretchina|epochweekly|cn.rfi)\.(cn|com|org|net|club|net|fr|tw|hk|eu|info|me)
+(.*.||)(gov|12377|12315|talk.news.pts.org|cread-ers|zhuich-aguoji|efcc.org|cy-ber-po-lice|abolu-owang|tu-idang|epochtimes|ny-times|zhengjian|110.qq|mingjingnews|in-medi-ahk|xin-sheng|banned-book|nt-dtv|12321|se-cretchina|epochweekly|cn.rfi).(cn|com|org|net|club|net|fr|tw|hk)
+(.*\.||)(gash)\.(com|tw)
+(.+\.|^)(360|so)\.(cn|com)
+(\.guanjia\.qq\.com|qqpcmgr|QQPCMGR)
+(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com
+.*bank|cb|xb|cib|spdb|boc|cdb.*
+(.*\.||)(mycard)\.(com|tw)
+(.*\.||)(taobao)\.(com)
+(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
+(.*\.||)(rising|kingsoft|duba|xindubawukong|jinshanduba)\.(com|net|org)
+(torrent|\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce.php?passkey=)
+(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+(.*.||)(ipaddress|whatismyipaddress|whoer|iplocation|ip138).(org|com|net|my|to|co)
+.*whatismyip.*
+(^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
+(ed2k|.tor­rent|peer_id=|an­nounce|in­fo_hash|get_peers|find­_n­ode|Bit­Tor­rent|an­nounce_peer|an­nounce.php?passkey=|mag­net:|xun­lei|sandai|Thun­der|XL­LiveUD|bt_key)
+(.*\.||)(speed|speedtest|fast|speed.cloudflare)\.(com|cn|net|co|xyz|dev|edu|pro)
+(.*\.||)(qq|weibo|douyin|douban|tieba.baidu|cctv|dianping|tv.cctv|zhihu|toutiao|xiaohongshu|xhscdn|kuaishou|kuaishouzt)\.(com|cn|net|co|xyz|dev|edu|pro)
+(.*.||)(dafa­hao|minghui|dong­tai­wang|dongtaiwang|epochtimes|nt­dtv|falundafa|wu­jieli­u­lan|soundofhope).(org|com|net)
+BitTorrent protocol
+Private Tracker protocol
+bittorrent
+torrent
+Thunder
