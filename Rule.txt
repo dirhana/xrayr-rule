@@ -15,7 +15,6 @@
 .*whatismyip.*
 (^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
 (ed2k|.tor­rent|peer_id=|an­nounce|in­fo_hash|get_peers|find­_n­ode|Bit­Tor­rent|an­nounce_peer|an­nounce.php?passkey=|mag­net:|xun­lei|sandai|Thun­der|XL­LiveUD|bt_key)
-(.*\.||)(speed|speedtest|fast|speed.cloudflare)\.(com|cn|net|co|xyz|dev|edu|pro)
 (.*\.||)(qq|weibo|douyin|douban|tieba.baidu|cctv|dianping|tv.cctv|zhihu|toutiao|xiaohongshu|xhscdn|kuaishou|kuaishouzt)\.(com|cn|net|co|xyz|dev|edu|pro)
 (.*.||)(dafa­hao|minghui|dong­tai­wang|dongtaiwang|epochtimes|nt­dtv|falundafa|wu­jieli­u­lan|soundofhope).(org|com|net)
 BitTorrent protocol
