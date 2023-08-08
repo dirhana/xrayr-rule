@@ -4,7 +4,7 @@
 (.+\.|^)(360|so)\.(cn|com)
 (\.guanjia\.qq\.com|qqpcmgr|QQPCMGR)
 (api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com
-.*bank|cb|xb|cib|spdb|boc|cdb.*
+.*bank|cb|cib|spdb|boc|cdb.*
 (.*\.||)(mycard)\.(com|tw)
 (.*\.||)(taobao)\.(com)
 (.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
